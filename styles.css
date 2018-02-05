@@ -1,0 +1,10 @@
+
+.mobile-listener {
+    color: blue;
+}
+
+@media (max-width: 700px) and (orientation: landscape){
+    .mobile-listener {
+        color: red;
+    }
+}
